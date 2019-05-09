@@ -11,6 +11,7 @@ def game_hash
                             :steals => 3,
                             :blocks => 1,
                             :slam_dunks => 1
+
                           },
                           "Reggie Evans" => {
                             :number => 30,
@@ -157,29 +158,6 @@ def big_shoe_rebounds
   end
   return rebounds
 end
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-  
-
-
-  
-
 
 
 
